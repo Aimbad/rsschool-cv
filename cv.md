@@ -6,7 +6,7 @@
 
 ### About me:
 
-*Extensive experience in IT, but in a different direction. I want to move further in the web development.*
+*Extensive experience in IT, but in a different direction. I want to move further in the web development. Positive qualities: responsibility, punctuality*
 
 ### Programming skills:
 
