@@ -1,0 +1,24 @@
+  
+  html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    max-width: 1024px;   
+    margin: 0 20%;
+  }
+  
+  p, li {
+    font-style: italic;
+
+  }
+ 
+  .photo {
+    width: 200px;
+    margin: 20px;
+  }
+  
+  .header{
+    text-align: center;
+    padding: 20px;
+  }
+  
+  
